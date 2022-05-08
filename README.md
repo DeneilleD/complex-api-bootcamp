@@ -11,8 +11,7 @@ Build an application that enables the use of a public API to generate a response
 This project highlights my use of HTML, CSS and javaScript;a user friendly applcation displays a diverse selection of pokemn made avaiable to the user with their input. 
 **Link to project: https://ddcomlexapi.netlify.app/ 
 
-![snip](sc.PNG)
-
+![snip](Capture.PNG)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript

@@ -1,13 +1,8 @@
 # 📊 Project: Complex API 
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
-# 📊 Project: Simple API 1
-
-### Goal: Display data returned from an api
-
 Build an application that enables the use of a public API to generate a response with the APIs content.
 
-###  My Simple API Project
 This project highlights my use of HTML, CSS and javaScript;a user friendly applcation displays a diverse selection of pokemn made avaiable to the user with their input. 
 **Link to project: https://ddcomlexapi.netlify.app/ 
 
